@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo0202/springbootdemo0202.iml" filepath="$PROJECT_DIR$/../springbootdemo0202/springbootdemo0202.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo0203/springbootdemo0203.iml" filepath="$PROJECT_DIR$/../springbootdemo0203/springbootdemo0203.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo02_base_configuration/springbootdemo02_base_configuration.iml" filepath="$PROJECT_DIR$/../springbootdemo02_base_configuration/springbootdemo02_base_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo03_yaml/springbootdemo03_yaml.iml" filepath="$PROJECT_DIR$/../springbootdemo03_yaml/springbootdemo03_yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo04_junit/springbootdemo04_junit.iml" filepath="$PROJECT_DIR$/../springbootdemo04_junit/springbootdemo04_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo05_mybatis/springbootdemo05_mybatis.iml" filepath="$PROJECT_DIR$/../springbootdemo05_mybatis/springbootdemo05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo06_mybatis_plus/springbootdemo06_mybatis_plus.iml" filepath="$PROJECT_DIR$/../springbootdemo06_mybatis_plus/springbootdemo06_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo07_druid/springbootdemo07_druid.iml" filepath="$PROJECT_DIR$/../springbootdemo07_druid/springbootdemo07_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo1/springbootdemo1.iml" filepath="$PROJECT_DIR$/springbootdemo1/springbootdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo12_hot_deploy/springbootdemo12_hot_deploy.iml" filepath="$PROJECT_DIR$/../springbootdemo12_hot_deploy/springbootdemo12_hot_deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo13_configuration/springbootdemo13_configuration.iml" filepath="$PROJECT_DIR$/../springbootdemo13_configuration/springbootdemo13_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo14_test/springbootdemo14_test.iml" filepath="$PROJECT_DIR$/../springbootdemo14_test/springbootdemo14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo15_sql/springbootdemo15_sql.iml" filepath="$PROJECT_DIR$/../springbootdemo15_sql/springbootdemo15_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo16_redis/springbootdemo16_redis.iml" filepath="$PROJECT_DIR$/../springbootdemo16_redis/springbootdemo16_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemo17_mongodb/springbootdemo17_mongodb.iml" filepath="$PROJECT_DIR$/../springbootdemo17_mongodb/springbootdemo17_mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo2/springbootdemo2.iml" filepath="$PROJECT_DIR$/springbootdemo2/springbootdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springbootdemoExample/springbootdemoExample.iml" filepath="$PROJECT_DIR$/../springbootdemoExample/springbootdemoExample.iml" />
+    </modules>
+  </component>
+</project>

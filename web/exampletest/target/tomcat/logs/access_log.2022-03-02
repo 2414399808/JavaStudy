@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:29 +0800] "GET /exampletest HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:29 +0800] "GET /exampletest/ HTTP/1.1" 200 170 http-bio-8080-exec-3 73
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:29 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:34 +0800] "GET /exampletest/login.html HTTP/1.1" 200 757 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:34 +0800] "GET /exampletest/css/login.css HTTP/1.1" 200 1468 http-bio-8080-exec-6 11
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:34 +0800] "GET /exampletest/imgs/Desert.jpg HTTP/1.1" 200 6664596 http-bio-8080-exec-7 151
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:23:44 +0800] "GET /exampletest/LoginServlet?username=zhnagsan&password=123 HTTP/1.1" 302 - http-bio-8080-exec-9 534
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:24:42 +0800] "GET /exampletest/LoginServlet?username=&password= HTTP/1.1" 302 - http-bio-8080-exec-9 8
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:24:45 +0800] "GET /exampletest/LoginServlet?username=fasdf&password=fffff HTTP/1.1" 302 - http-bio-8080-exec-9 7
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:25:02 +0800] "GET /exampletest/register.html HTTP/1.1" 200 1334 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:25:02 +0800] "GET /exampletest/css/register.css HTTP/1.1" 200 2659 http-bio-8080-exec-9 7
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:25:02 +0800] "GET /exampletest/imgs/reg_bg_min.jpg HTTP/1.1" 200 389286 http-bio-8080-exec-9 14
+0:0:0:0:0:0:0:1 - - [02/Mar/2022:15:25:09 +0800] "GET /exampletest/LoginServlet?username=zhangsan&password=123 HTTP/1.1" 200 - http-bio-8080-exec-9 11

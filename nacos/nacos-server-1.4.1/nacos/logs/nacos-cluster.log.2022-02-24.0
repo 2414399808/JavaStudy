@@ -1,0 +1,260 @@
+2022-02-24 17:48:34,938 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 17:48:34,940 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 17:48:34,940 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 17:48:34,958 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 17:48:34,960 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 17:51:17,078 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 17:51:17,081 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 17:51:17,091 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 17:51:17,092 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 17:51:19,697 INFO This node is ready to provide external services
+
+2022-02-24 17:51:24,702 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:26,703 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:30,707 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:32,711 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:36,713 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:38,716 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:42,719 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:44,720 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:50,724 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 17:51:56,732 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:15:30,708 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:11,735 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:16:11,744 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:16:11,758 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:16:11,759 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:16:14,613 INFO This node is ready to provide external services
+
+2022-02-24 21:16:19,617 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:21,618 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:25,622 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:27,625 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:31,626 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:33,629 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:37,634 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:39,634 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:43,638 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:45,640 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:49,648 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:51,649 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:55,652 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:16:57,655 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:01,658 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:03,661 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:07,664 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:09,667 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:13,670 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:15,673 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:19,675 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:21,677 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:25,681 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:27,683 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:31,685 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:33,687 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:37,689 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:39,689 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:43,691 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:45,695 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:49,699 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:51,702 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:55,707 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:57,708 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:01,713 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:03,717 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:09,721 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:15,727 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:21,730 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:27,738 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:33,743 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:11,890 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:32:11,891 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 21:32:11,892 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 21:32:11,903 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:32:11,904 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:32:14,760 INFO This node is ready to provide external services
+
+2022-02-24 21:32:19,766 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:21,768 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:25,774 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:27,775 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:31,778 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:33,780 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:39,785 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:45,790 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:51,799 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:57,805 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:42:28,223 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:18,702 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:45:18,708 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:18,720 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:18,721 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:21,458 INFO This node is ready to provide external services
+
+2022-02-24 21:45:28,491 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:30,494 ERROR failed to report new info to target node : 192.168.147.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:32,504 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:34,498 ERROR failed to report new info to target node : 192.168.147.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:36,513 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:38,504 ERROR failed to report new info to target node : 192.168.147.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:40,502 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:42,505 ERROR failed to report new info to target node : 192.168.147.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:44,507 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:46,509 ERROR failed to report new info to target node : 192.168.147.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:48,512 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:52,523 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:56,536 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:46:00,557 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:31,586 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:53:31,587 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 21:53:31,588 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845, version=1.4.1}}]
+
+2022-02-24 21:53:31,606 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:53:31,607 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:53:34,432 INFO This node is ready to provide external services
+
+2022-02-24 21:53:39,437 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:41,440 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:45,452 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:47,453 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:51,456 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:53,469 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:59,477 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:54:05,482 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:54:11,489 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 23:02:55,959 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 23:02:55,964 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 23:02:55,976 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 23:02:55,977 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 23:02:59,074 INFO This node is ready to provide external services
+
+2022-02-24 23:03:04,104 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:06,106 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:10,115 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:12,190 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:16,441 ERROR failed to report new info to target node : 127.0.0.1:8846, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:18,487 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:24,496 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+

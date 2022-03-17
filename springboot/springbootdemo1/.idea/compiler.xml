@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootdemo07_druid" />
+        <module name="springbootdemo1" />
+        <module name="springbootdemo04_junit" />
+        <module name="springbootdemo06_mybatis_plus" />
+        <module name="springbootdemo12_hot_deploy" />
+        <module name="springbootdemo16_redis" />
+        <module name="springbootdemo17_mongodb" />
+        <module name="springbootdemo0202" />
+        <module name="springbootdemo0203" />
+        <module name="springbootdemo05_mybatis" />
+        <module name="springbootdemo03_yaml" />
+        <module name="springbootdemo15_sql" />
+        <module name="springbootdemoExample" />
+        <module name="springbootdemo2" />
+        <module name="springbootdemo13_configuration" />
+        <module name="springbootdemo02_base_configuration" />
+        <module name="springbootdemo14_test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootdemo0202" target="11" />
+      <module name="springbootdemo0203" target="16" />
+      <module name="springbootdemo02_base_configuration" target="11" />
+      <module name="springbootdemo03_yaml" target="11" />
+      <module name="springbootdemo04_junit" target="11" />
+      <module name="springbootdemo05_mybatis" target="11" />
+      <module name="springbootdemo06_mybatis_plus" target="11" />
+      <module name="springbootdemo07_druid" target="11" />
+      <module name="springbootdemo1" target="11" />
+      <module name="springbootdemo12_hot_deploy" target="11" />
+      <module name="springbootdemo13_configuration" target="11" />
+      <module name="springbootdemo14_test" target="11" />
+      <module name="springbootdemo15_sql" target="11" />
+      <module name="springbootdemo16_redis" target="11" />
+      <module name="springbootdemo17_mongodb" target="11" />
+      <module name="springbootdemo2" target="11" />
+      <module name="springbootdemoExample" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootdemo0202" options="-parameters" />
+      <module name="springbootdemo0203" options="-parameters" />
+      <module name="springbootdemo02_base_configuration" options="-parameters" />
+      <module name="springbootdemo03_yaml" options="-parameters" />
+      <module name="springbootdemo04_junit" options="-parameters" />
+      <module name="springbootdemo05_mybatis" options="-parameters" />
+      <module name="springbootdemo06_mybatis_plus" options="-parameters" />
+      <module name="springbootdemo07_druid" options="-parameters" />
+      <module name="springbootdemo1" options="-parameters" />
+      <module name="springbootdemo12_hot_deploy" options="-parameters" />
+      <module name="springbootdemo13_configuration" options="-parameters" />
+      <module name="springbootdemo14_test" options="-parameters" />
+      <module name="springbootdemo15_sql" options="-parameters" />
+      <module name="springbootdemo16_redis" options="-parameters" />
+      <module name="springbootdemo17_mongodb" options="-parameters" />
+      <module name="springbootdemo2" options="-parameters" />
+      <module name="springbootdemoExample" options="-parameters" />
+    </option>
+  </component>
+</project>

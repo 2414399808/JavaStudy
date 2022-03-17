@@ -1,0 +1,37 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_user?useSSL=false
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.jdbc.Driver
+  application:
+    name: userservice  #user的服务名称
+  cloud:
+    nacos:
+      server-addr: localhost:80 #nacos服务地址
+      discovery:
+        cluster-name: SH #集群名称 这里代指杭州
+
+
+
+mybatis:
+  type-aliases-package: cn.itcast.user.pojo
+  configuration:
+    map-underscore-to-camel-case: true
+logging:
+  level:
+    cn.itcast: debug
+  pattern:
+    dateformat: MM-dd HH:mm:ss:SSS
+
+
+#
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:10086/eureka
+
+pattern:
+  name: 本地环境local #环境配置的属性比本地配置的优先级高 且环境配置中 指定环境的配置的优先级比多环境的配置 优先级高

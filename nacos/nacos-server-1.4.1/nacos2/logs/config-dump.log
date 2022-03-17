@@ -1,0 +1,8 @@
+2022-02-25 09:12:31,027 INFO [dump-all-ok] userservice.yaml+DEFAULT_GROUP, 1645711309000, length=45, md5=670a988508d5308e4808dc937ed4c530
+
+2022-02-25 09:12:31,030 INFO [dump-all-ok] orderservice.yaml+DEFAULT_GROUP, 1645715938000, length=45, md5=875988e398f7fd648c22c8759fffa35f
+
+2022-02-25 09:14:55,614 INFO [dump-all-ok] userservice.yaml+DEFAULT_GROUP, 1645711309000, length=45, md5=670a988508d5308e4808dc937ed4c530
+
+2022-02-25 09:14:55,616 INFO [dump-all-ok] orderservice.yaml+DEFAULT_GROUP, 1645715938000, length=45, md5=875988e398f7fd648c22c8759fffa35f
+

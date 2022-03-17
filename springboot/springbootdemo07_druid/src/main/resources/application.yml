@@ -1,0 +1,17 @@
+#非整合型配法
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/db2?useSSL=false&useServerPrepStmts=true
+#    username: root
+#    password: 1234
+#    type: com.alibaba.druid.pool.DruidDataSource
+
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/db2?useSSL=false&useServerPrepStmts=true
+      username: root
+      password: 1234

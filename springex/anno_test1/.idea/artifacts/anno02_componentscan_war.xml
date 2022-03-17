@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="anno02_componentscan:war">
+    <output-path>$PROJECT_DIR$/../anno02_componentscan/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>anno02_componentscan</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="anno02_componentscan-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="anno02_componentscan:war exploded" />
+    </root>
+  </artifact>
+</component>

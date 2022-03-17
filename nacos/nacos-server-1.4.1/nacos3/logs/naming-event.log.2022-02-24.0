@@ -1,0 +1,1870 @@
+2022-02-24 22:00:06,745 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:00:06,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:00:08,791 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:00:21,709 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711206698
+
+2022-02-24 22:00:25,896 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:00:25,896 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:00:26,754 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:00:27,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:00:46,717 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711226754
+
+2022-02-24 22:00:46,825 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:00:56,719 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711240953
+
+2022-02-24 22:01:00,903 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:01:00,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:01:01,930 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:01:01,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:01:04,017 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:01:21,723 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711261929
+
+2022-02-24 22:01:22,007 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:01:34,916 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:01:35,942 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 2, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH, 192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:01:35,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:01:36,952 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:01:39,182 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:01:39,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:01:42,027 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:01:42,027 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:02:11,736 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711312121
+
+2022-02-24 22:02:22,226 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:02:50,959 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:02:50,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:02:52,271 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:02:52,271 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:02:52,271 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:02:54,409 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:02:54,409 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:03:11,751 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711372337
+
+2022-02-24 22:03:22,449 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:03:41,757 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711402449
+
+2022-02-24 22:03:46,758 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711410344
+
+2022-02-24 22:03:52,768 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:03:55,079 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:04:15,979 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:04:15,979 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:04:15,980 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:04:15,980 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:04:15,980 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:04:22,841 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:04:24,925 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:04:27,258 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:04:27,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:04:41,765 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711462840
+
+2022-02-24 22:04:46,765 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711470171
+
+2022-02-24 22:04:52,920 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:05:01,774 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:05:01,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:05:03,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:05:04,906 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:05:04,906 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:05:06,953 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:05:31,788 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711514933
+
+2022-02-24 22:05:34,271 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:05:34,272 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:05:34,991 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:05:36,355 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:05:46,790 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711528048
+
+2022-02-24 22:05:52,809 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:06:01,002 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:06:01,002 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:04,959 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:06:04,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:21,796 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711562857
+
+2022-02-24 22:06:27,817 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:06:30,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:31,027 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:06:31,027 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:31,798 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711572893
+
+2022-02-24 22:06:32,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:06:36,800 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711579399
+
+2022-02-24 22:06:37,203 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:06:37,203 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:06:42,821 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:06:46,010 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:06:46,010 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:46,802 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711579399
+
+2022-02-24 22:06:51,809 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:06:51,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:06:52,988 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 2, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH, 192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:06:52,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:06:53,907 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:06:55,941 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:06:55,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:06:56,030 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:06:57,057 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:06:57,057 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:06:59,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:11,810 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711615231
+
+2022-02-24 22:07:19,930 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:07:21,813 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711622074
+
+2022-02-24 22:07:27,834 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:07:35,986 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:07:35,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:36,817 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711630274
+
+2022-02-24 22:07:41,819 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:07:41,819 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8083_true,
+
+2022-02-24 22:07:42,064 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 2, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH, 192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:07:42,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:43,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:44,147 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:07:44,147 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:45,976 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:46,013 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:48,066 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:07:48,066 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:50,108 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:07:51,820 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711654939
+
+2022-02-24 22:07:59,944 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:08:10,955 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:08:11,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:08:11,825 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711664987
+
+2022-02-24 22:08:12,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:08:16,826 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711678088
+
+2022-02-24 22:08:16,830 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:08:16,830 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,
+
+2022-02-24 22:08:18,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,
+
+2022-02-24 22:08:19,140 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:08:19,140 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:08:21,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:08:24,964 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:08:30,990 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:08:30,990 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:08:31,007 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:08:37,085 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:08:37,085 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:08:41,832 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711704156
+
+2022-02-24 22:08:41,832 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711705040
+
+2022-02-24 22:08:50,118 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:08:55,971 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:09:06,836 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711730118
+
+2022-02-24 22:09:11,837 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711735077
+
+2022-02-24 22:09:16,838 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711740986
+
+2022-02-24 22:09:21,842 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:09:21,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_false,
+
+2022-02-24 22:09:23,945 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_false,
+
+2022-02-24 22:09:24,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_false,
+
+2022-02-24 22:09:26,844 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:09:26,845 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:09:27,872 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:09:28,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:09:29,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:09:30,008 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:09:30,009 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:09:32,092 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:09:34,941 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:09:34,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:09:56,848 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711777893
+
+2022-02-24 22:10:00,994 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:10:00,994 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:10:01,850 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711777912
+
+2022-02-24 22:10:04,985 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:10:05,862 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:05,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:10:06,851 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711790061
+
+2022-02-24 22:10:06,851 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711777912
+
+2022-02-24 22:10:10,000 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:10:11,028 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:11,028 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:10:11,058 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:10:11,892 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:10:17,152 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:17,152 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:10:21,852 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711790061
+
+2022-02-24 22:10:21,855 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:10:21,855 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:10:23,897 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:10:30,320 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:30,320 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:10:51,857 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711833227
+
+2022-02-24 22:10:56,060 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:56,060 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,
+
+2022-02-24 22:10:59,000 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:10:59,000 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:11:01,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:11:03,303 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:11:11,864 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711854989
+
+2022-02-24 22:11:16,864 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711858999
+
+2022-02-24 22:11:22,879 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:11:26,865 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711868307
+
+2022-02-24 22:11:26,866 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:11:26,866 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:11:28,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:11:29,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:11:33,356 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:11:34,967 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:11:34,967 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:11:36,868 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711868307
+
+2022-02-24 22:11:41,043 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:11:41,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:11:41,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:11:44,988 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:11:44,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:11:56,874 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711897957
+
+2022-02-24 22:12:01,875 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711902898
+
+2022-02-24 22:12:11,878 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:12:11,878 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:12:13,898 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:12:15,010 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:12:15,011 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:12:16,030 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:12:16,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,
+
+2022-02-24 22:12:17,922 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:12:17,923 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:12:19,974 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:12:21,877 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711923997
+
+2022-02-24 22:12:22,008 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:12:22,041 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:12:26,967 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:12:26,968 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:12:36,035 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:12:36,035 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:12:41,071 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:12:41,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:12:43,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:12:51,882 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711954989
+
+2022-02-24 22:12:51,882 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711952957
+
+2022-02-24 22:12:54,992 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:13:06,884 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711971084
+
+2022-02-24 22:13:06,886 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:13:06,886 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:13:08,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:13:11,031 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:13:11,031 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:13:11,886 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711974992
+
+2022-02-24 22:13:13,145 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:13:17,050 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:13:21,890 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:13:21,890 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:13:23,927 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:13:27,111 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:13:27,112 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:13:31,891 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645711991030
+
+2022-02-24 22:13:41,895 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:13:41,895 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:13:43,934 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:13:46,895 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712010080
+
+2022-02-24 22:13:47,096 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:13:47,096 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:13:55,044 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:14:06,072 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:06,072 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:14:12,187 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:12,187 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:14:21,901 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712045150
+
+2022-02-24 22:14:31,127 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:31,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:14:31,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:14:31,903 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712050092
+
+2022-02-24 22:14:35,229 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:14:36,098 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:36,098 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:14:38,155 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:14:40,043 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:14:45,079 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:14:46,041 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:46,041 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:14:46,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:14:47,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:14:51,906 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712075229
+
+2022-02-24 22:14:52,111 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:14:52,111 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:15:06,910 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:15:06,910 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:15:08,946 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:15:11,910 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712095107
+
+2022-02-24 22:15:11,910 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712096129
+
+2022-02-24 22:15:12,180 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:15:12,180 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:15:26,917 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:15:26,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:15:26,918 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:15:26,918 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:15:29,009 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:15:33,275 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:15:33,275 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:15:36,017 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:15:36,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:15:36,917 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712120118
+
+2022-02-24 22:15:46,920 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712131164
+
+2022-02-24 22:15:50,079 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:15:55,109 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:15:56,088 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:15:56,088 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:15:57,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:15:57,957 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:16:02,169 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:02,169 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:16:11,089 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:11,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:16:13,020 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:13,020 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:16:15,134 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:16:21,926 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712164066
+
+2022-02-24 22:16:36,930 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:16:36,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:16:38,955 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:16:41,428 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:41,428 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:16:41,929 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712183055
+
+2022-02-24 22:16:46,298 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:16:56,123 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:56,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:16:56,147 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:16:56,932 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712195244
+
+2022-02-24 22:16:58,356 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:16:58,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:00,080 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:17:10,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:11,117 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:17:11,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:11,141 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:12,164 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:16,936 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712221347
+
+2022-02-24 22:17:17,182 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:17:17,182 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:17:26,940 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712229334
+
+2022-02-24 22:17:37,974 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:17:46,946 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:17:46,946 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:17:49,050 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:17:52,193 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:17:52,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:17:56,947 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712257974
+
+2022-02-24 22:18:10,102 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:18:11,161 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:18:11,162 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:18:18,157 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:18:18,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:18:21,952 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712285140
+
+2022-02-24 22:18:26,952 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712288002
+
+2022-02-24 22:18:32,982 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:18:41,958 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:18:41,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:18:44,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:18:45,035 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:18:45,035 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:18:46,957 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712311163
+
+2022-02-24 22:18:47,063 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:18:55,101 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:19:01,993 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712325033
+
+2022-02-24 22:19:05,090 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:19:06,176 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:06,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:19:07,194 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:19:13,288 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:13,288 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:19:16,994 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712340085
+
+2022-02-24 22:19:26,996 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712351182
+
+2022-02-24 22:19:30,108 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:19:36,309 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:36,309 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:19:36,999 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712346135
+
+2022-02-24 22:19:37,000 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:19:37,000 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:39,121 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:40,151 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:40,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,
+
+2022-02-24 22:19:41,126 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:41,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:41,175 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:42,266 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:43,403 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,
+
+2022-02-24 22:19:46,350 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:46,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:19:47,202 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:47,202 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:47,202 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,
+
+2022-02-24 22:19:48,445 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,
+
+2022-02-24 22:19:52,368 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:19:53,434 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:19:53,435 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:19:57,004 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712380105
+
+2022-02-24 22:19:58,386 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:20:07,006 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712390187
+
+2022-02-24 22:20:10,249 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:20:16,190 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:20:16,190 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:18,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:21,171 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:20:21,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:20:22,011 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712405232
+
+2022-02-24 22:20:23,216 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:20:27,014 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712411445
+
+2022-02-24 22:20:33,024 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:20:37,018 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:20:37,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:39,040 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:42,224 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:20:42,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:44,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:20:52,060 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712436232
+
+2022-02-24 22:20:56,254 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:20:57,065 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712439040
+
+2022-02-24 22:20:58,069 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:21:12,068 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712452265
+
+2022-02-24 22:21:17,069 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712458069
+
+2022-02-24 22:21:21,192 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:21:21,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8083_false,
+
+2022-02-24 22:21:22,071 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:21:22,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,
+
+2022-02-24 22:21:23,421 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 2, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH, 192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:21:23,421 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:21:24,167 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:21:25,147 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:21:28,141 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:21:31,153 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:21:37,071 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712481329
+
+2022-02-24 22:21:51,191 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:21:51,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:21:54,232 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:21:54,232 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:21:57,075 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712500114
+
+2022-02-24 22:22:00,250 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:22:05,174 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:22:12,077 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712512212
+
+2022-02-24 22:22:16,218 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:22:16,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:22:17,078 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712515123
+
+2022-02-24 22:22:22,305 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:22:22,310 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:22:22,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:22:27,082 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:22:27,082 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:22:29,199 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:22:31,215 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:22:33,444 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:22:33,444 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:22:37,082 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712540212
+
+2022-02-24 22:22:47,083 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712551349
+
+2022-02-24 22:22:51,401 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:22:52,085 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:22:52,085 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:22:54,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:22:57,357 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:22:57,357 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:07,084 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712567386
+
+2022-02-24 22:23:22,089 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:23:22,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:24,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:27,508 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:23:27,508 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:29,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:47,092 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712607507
+
+2022-02-24 22:23:47,567 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:23:56,207 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:23:56,207 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:23:57,607 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:23:57,607 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:23:59,631 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:24:02,094 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712622548
+
+2022-02-24 22:24:10,157 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:24:16,176 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:24:16,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:24:17,096 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712636597
+
+2022-02-24 22:24:22,190 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:24:22,247 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:24:22,247 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:24:32,100 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712656671
+
+2022-02-24 22:24:32,100 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712652658
+
+2022-02-24 22:24:46,164 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:24:46,164 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,
+
+2022-02-24 22:24:47,105 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712665215
+
+2022-02-24 22:24:49,306 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:24:49,306 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:24:50,143 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:00,338 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:01,167 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:01,262 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:02,106 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712683251
+
+2022-02-24 22:25:02,275 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:25:07,108 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712687257
+
+2022-02-24 22:25:10,374 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:15,185 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:15,405 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:16,256 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:25:16,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:17,111 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712687257
+
+2022-02-24 22:25:17,455 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:25:21,219 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:25:21,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:25:21,230 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:25:21,230 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:25:22,284 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:25:22,285 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:22,538 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:25:22,538 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:25:24,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:25:27,111 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712710215
+
+2022-02-24 22:25:29,319 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:25:29,319 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:25:35,179 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:47,116 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712727298
+
+2022-02-24 22:25:47,361 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:25:52,118 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712735179
+
+2022-02-24 22:26:01,197 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:26:02,119 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712745174
+
+2022-02-24 22:26:05,185 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:26:11,221 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:26:11,221 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:12,121 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712750163
+
+2022-02-24 22:26:15,181 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:26:17,278 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:26:17,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:26:22,123 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712750163
+
+2022-02-24 22:26:22,128 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:26:22,128 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:24,163 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:26,182 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:26,227 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:26:26,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:27,124 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712767429
+
+2022-02-24 22:26:28,319 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:26:35,203 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:26:41,209 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:26:41,209 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:26:47,261 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:26:47,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:26:52,128 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712791234
+
+2022-02-24 22:27:02,133 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:27:02,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:04,188 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:08,328 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:27:08,328 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:12,132 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712815202
+
+2022-02-24 22:27:21,247 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:27:32,136 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712836279
+
+2022-02-24 22:27:40,181 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:27:41,281 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:27:41,281 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:41,313 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:47,290 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:27:47,290 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:27:52,141 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712855199
+
+2022-02-24 22:27:57,141 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712860201
+
+2022-02-24 22:28:03,159 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:28:07,148 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:28:07,148 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:28:09,233 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:28:11,266 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:28:11,266 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:28:27,151 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712891304
+
+2022-02-24 22:28:37,153 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712901208
+
+2022-02-24 22:28:41,317 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:28:41,317 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:28:42,155 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712905284
+
+2022-02-24 22:28:45,268 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:28:45,268 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:28:47,334 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:28:47,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:28:57,160 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:28:57,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:28:59,197 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:29:02,352 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:29:02,352 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,192.168.147.1:8082_true,
+
+2022-02-24 22:29:17,161 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712938384
+
+2022-02-24 22:29:17,161 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712940250
+
+2022-02-24 22:29:22,164 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645712945331
+
+2022-02-24 22:29:25,221 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:29:31,228 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:29:31,228 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:29:33,560 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:29:33,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:29:35,221 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:29:40,228 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:30:01,321 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:30:01,321 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:30:07,289 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:30:07,289 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:30:27,178 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713007338
+
+2022-02-24 22:30:33,198 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:30:37,179 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713021616
+
+2022-02-24 22:30:37,179 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713020292
+
+2022-02-24 22:30:40,277 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:30:41,238 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:30:41,238 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:30:41,259 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:30:42,367 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:30:42,447 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:30:47,347 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:30:47,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:31:01,334 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:31:01,334 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:31:04,311 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:31:04,311 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,192.168.147.1:8082_true,
+
+2022-02-24 22:31:06,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,192.168.147.1:8082_true,
+
+2022-02-24 22:31:07,182 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713050310
+
+2022-02-24 22:31:20,462 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:31:22,191 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:31:22,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:24,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:26,243 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:26,295 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:31:26,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:28,351 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:37,191 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713080461
+
+2022-02-24 22:31:52,195 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:31:52,195 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:31:54,300 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,
+
+2022-02-24 22:31:55,305 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:31:55,305 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:31:57,336 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:02,195 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713104447
+
+2022-02-24 22:32:17,201 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:32:17,201 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:19,315 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:25,498 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:32:25,498 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:27,203 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713128244
+
+2022-02-24 22:32:32,204 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713135350
+
+2022-02-24 22:32:38,211 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:32:40,263 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:41,316 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:32:41,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:32:42,205 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713143421
+
+2022-02-24 22:32:42,328 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:32:45,278 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:32:45,279 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:32:47,205 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713150404
+
+2022-02-24 22:32:47,397 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_false,
+
+2022-02-24 22:32:50,267 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:32:56,290 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:32:56,290 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:32:56,307 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:33:02,214 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:33:02,214 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:33:02,413 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 2, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH, 192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:33:02,413 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,192.168.147.1:8082_true,
+
+2022-02-24 22:33:03,238 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:33:04,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:33:17,216 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713180314
+
+2022-02-24 22:33:22,217 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713183238
+
+2022-02-24 22:33:23,234 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:33:27,217 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713190345
+
+2022-02-24 22:33:31,398 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:33:31,398 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:33:32,219 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713185324
+
+2022-02-24 22:33:34,270 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:33:37,400 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:33:37,400 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_false,
+
+2022-02-24 22:33:41,334 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:33:41,334 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:33:41,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:33:46,425 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:33:46,426 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,192.168.147.1:8082_true,
+
+2022-02-24 22:33:51,379 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:33:52,223 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713215331
+
+2022-02-24 22:34:02,225 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713224340
+
+2022-02-24 22:34:02,434 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:34:07,228 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713231379
+
+2022-02-24 22:34:13,243 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8083@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:34:16,281 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:34:22,230 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713242434
+
+2022-02-24 22:34:31,398 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:34:31,398 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_false,192.168.147.1:8082_true,
+
+2022-02-24 22:34:31,942 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:34:35,088 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:34:35,088 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_true,192.168.147.1:8083_true,
+
+2022-02-24 22:34:37,232 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713253257
+
+2022-02-24 22:34:37,232 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8082@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713261298
+
+2022-02-24 22:34:43,253 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:34:46,348 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:34:46,349 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:34:49,271 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:34:49,272 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:34:51,302 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8082_false,192.168.147.1:8083_true,
+
+2022-02-24 22:35:05,310 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8082@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:35:07,240 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8083@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713288042
+
+2022-02-24 22:35:08,649 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8082:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:35:08,649 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:35:10,678 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,192.168.147.1:8083_false,
+
+2022-02-24 22:35:12,982 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8083:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:35:12,982 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:35:13,020 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:35:13,020 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:35:15,136 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:36:07,180 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:36:07,180 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:37:05,324 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:37:06,348 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:37:06,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:37:07,381 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:37:10,343 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:37:10,345 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:37:12,453 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:37:27,268 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713430343
+
+2022-02-24 22:37:35,450 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:38:06,450 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:38:06,450 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:38:07,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:38:12,621 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:38:12,621 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:39:05,718 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:39:06,423 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:39:06,423 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:39:07,742 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:39:10,732 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:39:10,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:39:12,804 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:39:27,290 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713550732
+
+2022-02-24 22:39:35,775 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:40:06,481 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:40:06,481 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:40:07,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:40:12,923 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:40:12,924 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:41:06,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:41:06,378 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:41:06,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:41:08,123 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:41:11,059 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:41:11,059 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:41:13,091 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:41:27,330 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713671059
+
+2022-02-24 22:41:36,152 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:41:56,474 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:41:56,474 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:42:03,272 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:42:03,272 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:42:36,471 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:42:36,471 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:42:38,444 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:42:43,440 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:42:43,441 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:43:07,347 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713771446
+
+2022-02-24 22:43:22,353 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:43:22,353 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:43:24,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:43:26,579 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:43:26,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:43:28,714 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:44:01,437 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:44:01,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:44:03,785 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:44:03,785 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:44:36,417 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:44:36,417 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:44:36,828 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:44:36,829 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:44:38,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:45:21,488 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:45:21,488 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:45:24,022 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:45:24,022 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:45:56,619 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:45:56,619 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:45:59,150 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:45:59,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:46:12,385 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713957110
+
+2022-02-24 22:46:27,392 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:46:27,392 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:46:29,515 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:46:34,328 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:46:34,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:46:47,395 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645713992245
+
+2022-02-24 22:47:02,351 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:47:21,589 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:47:21,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:47:24,525 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:47:24,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:47:42,405 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645714042431
+
+2022-02-24 22:47:57,412 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:47:57,412 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:47:59,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:48:04,660 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:48:04,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:48:37,415 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645714097638
+
+2022-02-24 22:48:52,420 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:48:52,420 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:48:54,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:48:59,779 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:48:59,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:49:32,427 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645714152815
+
+2022-02-24 22:49:47,432 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:49:47,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:49:49,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:49:52,944 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:49:52,944 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:49:54,990 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:50:37,438 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645714218005
+
+2022-02-24 22:50:52,462 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 22:50:52,467 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:50:54,513 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:50:55,199 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:50:58,165 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:50:58,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:51:00,182 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:51:17,455 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645714258165
+
+2022-02-24 22:51:23,236 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 22:51:51,664 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:51:51,664 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 22:51:55,393 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:51:55,393 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 22:52:31,129 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 22:52:31,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:03:55,968 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:03:55,972 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:03:58,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:04:10,942 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715035929
+
+2022-02-24 23:04:25,950 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 23:04:25,950 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:04:28,020 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:04:28,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:04:33,092 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:04:33,092 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:05:10,957 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715091086
+
+2022-02-24 23:05:25,960 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 23:05:25,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:05:28,022 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:05:28,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:05:33,290 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:05:33,290 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:06:25,157 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:06:25,157 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:06:26,389 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:06:26,389 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:06:28,504 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:07:25,162 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:07:25,162 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:07:26,575 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:07:26,575 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:07:28,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:08:25,150 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:08:25,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:08:26,795 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:08:26,795 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:08:28,873 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:09:15,204 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:09:15,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:09:19,060 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:09:19,060 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:09:50,170 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:09:50,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:09:54,124 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:09:54,125 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:10:25,269 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:10:25,269 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:10:29,310 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:10:29,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:11:15,235 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:11:15,235 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:11:19,385 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:11:19,385 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:11:50,265 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:11:50,265 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:11:54,515 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:11:54,515 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:12:11,038 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715512458
+
+2022-02-24 23:12:22,546 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:12:50,206 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:12:50,206 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:12:54,698 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:12:54,698 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:13:11,051 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715572624
+
+2022-02-24 23:13:22,717 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:13:40,270 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:13:40,270 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:13:44,836 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:13:44,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:14:01,061 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715622774
+
+2022-02-24 23:14:16,064 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 23:14:16,064 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:14:18,168 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:14:22,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:14:24,069 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:14:35,758 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:14:35,758 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:15:16,075 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715698700
+
+2022-02-24 23:15:31,082 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 23:15:31,082 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:15:33,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:15:35,826 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:15:35,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:15:51,082 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715733784
+
+2022-02-24 23:16:03,873 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:16:35,287 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:16:35,287 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:16:35,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:16:41,067 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:16:41,068 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:16:56,096 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715798961
+
+2022-02-24 23:17:09,078 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:17:30,311 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:17:30,311 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:17:36,233 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:17:36,233 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:17:56,111 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715859155
+
+2022-02-24 23:18:09,250 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:18:30,348 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:18:30,348 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:18:36,425 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:18:36,425 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:19:10,380 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:19:10,380 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:19:11,487 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:19:16,455 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:19:16,455 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:19:31,123 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645715954434
+
+2022-02-24 23:19:44,523 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:20:10,319 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:20:10,319 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:20:11,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:20:16,700 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:20:16,700 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:20:19,730 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:20:19,730 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:20:32,256 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:20:32,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:21:11,142 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645716055289
+
+2022-02-24 23:21:26,148 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_false_false_SH]
+
+2022-02-24 23:21:26,148 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:21:28,189 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:21:32,473 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:21:32,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:21:46,151 INFO {POS} {IP-DISABLED} valid: 192.168.147.1:8081@SH@DEFAULT_GROUP@@userservice, region: unknown, msg: client timeout after 15000, last beat: 1645716090396
+
+2022-02-24 23:22:00,463 INFO service: DEFAULT_GROUP@@userservice {POS} {IP-ENABLED} valid: 192.168.147.1:8081@SH, region: unknown, msg: client beat ok
+
+2022-02-24 23:22:30,366 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:22:30,367 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:22:32,618 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:22:32,618 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:23:30,363 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:23:30,363 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:23:30,756 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: SH, new ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:23:30,756 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:23:32,856 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 192.168.147.1:8081_true,
+
+2022-02-24 23:24:30,451 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: SH, dead ips size: 1, content: [192.168.147.1:8081:unknown:SH_1.0_true_false_SH]
+
+2022-02-24 23:24:30,451 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-02-24 23:24:31,562 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+

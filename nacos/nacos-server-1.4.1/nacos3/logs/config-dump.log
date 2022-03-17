@@ -1,0 +1,16 @@
+2022-02-25 09:12:37,631 INFO [dump-all-ok] userservice.yaml+DEFAULT_GROUP, 1645711309000, length=45, md5=670a988508d5308e4808dc937ed4c530
+
+2022-02-25 09:12:37,632 INFO [dump-all-ok] orderservice.yaml+DEFAULT_GROUP, 1645715938000, length=45, md5=875988e398f7fd648c22c8759fffa35f
+
+2022-02-25 09:15:09,120 INFO [dump-all-ok] userservice.yaml+DEFAULT_GROUP, 1645711309000, length=45, md5=670a988508d5308e4808dc937ed4c530
+
+2022-02-25 09:15:09,121 INFO [dump-all-ok] orderservice.yaml+DEFAULT_GROUP, 1645715938000, length=45, md5=875988e398f7fd648c22c8759fffa35f
+
+2022-02-25 11:15:09,193 WARN [dump-ignore] ignore to save cache file. groupKey=userservice.yaml+DEFAULT_GROUP, md5=670a988508d5308e4808dc937ed4c530, lastModifiedOld=1645711309000, lastModifiedNew=1645711309000
+
+2022-02-25 11:15:09,193 INFO [dump-all-ok] userservice.yaml+DEFAULT_GROUP, 1645711309000, length=45, md5=670a988508d5308e4808dc937ed4c530
+
+2022-02-25 11:15:09,193 WARN [dump-ignore] ignore to save cache file. groupKey=orderservice.yaml+DEFAULT_GROUP, md5=875988e398f7fd648c22c8759fffa35f, lastModifiedOld=1645715938000, lastModifiedNew=1645715938000
+
+2022-02-25 11:15:09,193 INFO [dump-all-ok] orderservice.yaml+DEFAULT_GROUP, 1645715938000, length=45, md5=875988e398f7fd648c22c8759fffa35f
+

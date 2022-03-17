@@ -1,0 +1,71 @@
+country: china
+province: beijing
+city: beijing
+area: haidian
+
+
+#port: 8080
+
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+
+party: true
+
+birthday: 1949-10-01
+
+user:
+  name: zsh
+  age: 20
+
+user2:
+  name: lwl
+  age: 21
+
+a:
+  b:
+    c:
+      d:
+        e: 123
+
+likes:
+  - game
+  - music
+  - sleep
+
+likes2: [game,music,sleep]
+
+users:
+  - name: zhangsan
+    age: 12
+  - name: lisi
+    age: 13
+
+users2:
+    -
+      name: wangwu
+      age: 14
+    -
+      name: zhaoliu
+      age: 15
+
+users3: [{name:zhangsan,age:12},{name:lisi,age:13}]
+
+
+baseDir: c:\windows
+
+#使用${属性名}引用数据
+tempDir: ${baseDir}\temp
+#使用“”包裹可以使用转义字符
+tempDir2: "${baseDir}\temp \t1 \t2"
+
+
+#创建一个类 用于封装下面的数据
+#由spring帮我们加载数据到对象中，一定要告诉spring加载这组信息
+#使用的时候从spring中直接获取信息使用
+dataSource:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/db1?useSSL=false
+  username: root
+  password: 1234

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>添加品牌</title>
+</head>
+<body>
+<script src="js/axios-0.18.0.js"></script>
+<script src="js/vue.js"></script>
+<h3>添加品牌</h3>
+<div id="app">
+    <form action="" method="post">
+        品牌名称：<input id="brandName" name="brandName" v-model="brand.brandName"><br>
+        企业名称：<input id="companyName" name="companyName" v-model="brand.companyName"><br>
+        排序：<input id="ordered" name="ordered" v-model="brand.ordered"><br>
+        描述信息：<textarea rows="5" cols="20" id="description" name="description" v-model="brand.description"></textarea><br>
+        状态：
+        <input type="radio" name="status" value="0" v-model="brand.status">禁用
+        <input type="radio" name="status" value="1" v-model="brand.status">启用<br>
+
+        <input type="button" id="btn"  value="提交" v-on:click="show()">
+    </form>
+</div>
+<!--<script>-->
+<!--    document.getElementById("btn").onclick=function (){-->
+<!--        var formData={-->
+<!--            "brandName":"",-->
+<!--            "companyName":"",-->
+<!--            "ordered":"",-->
+<!--            "description":"",-->
+<!--            "status":""-->
+
+<!--        }-->
+<!--        var brandName = document.getElementById("brandName").value;-->
+<!--        formData.brandName=brandName;-->
+<!--        var companyName = document.getElementById("companyName").value;-->
+<!--        formData.companyName=companyName;-->
+<!--        var ordered = document.getElementById("ordered").value;-->
+<!--        formData.ordered=ordered;-->
+<!--        var description = document.getElementById("description").value;-->
+<!--        formData.description=description;-->
+<!--        var status = document.getElementsByName("status");-->
+<!--        for (let i = 0; i < status.length; i++) {-->
+<!--            if(status[i].checked){-->
+<!--                formData.status=status[i].value;-->
+<!--            }-->
+
+<!--        }-->
+<!--        axios({-->
+<!--            method:"post",-->
+<!--            url:"http://localhost:8080/brand-demo/addServlet",-->
+<!--            data:formData-->
+<!--        }).then(function (resp) {-->
+<!--            location.href="/brand-demo/brand.html";-->
+
+<!--        })-->
+<!--    }-->
+<!--</script>-->
+<script>
+    // document.getElementById("btn").onclick=function (){
+    //     var FromData={
+    //         brandName:"",
+    //         companyName:"",
+    //         ordered:"",
+    //         description:"",
+    //         status:""
+    //
+    //     }
+    //     var brandName = document.getElementById("brandName").value;
+    //     FromData.brandName=brandName;
+    //     var companyName = document.getElementById("companyName").value;
+    //     FromData.companyName=companyName;
+    //     var ordered = document.getElementById("ordered").value;
+    //     FromData.ordered=ordered;
+    //     var description = document.getElementById("description").value;
+    //     FromData.description=description;
+    //     var status = document.getElementsByName("status");
+    //
+    //     for (let i = 0; i < status.length; i++) {
+    //         if(status[i].checked){
+    //             FromData.status=status[i].value;
+    //         }
+    //     }
+    //     axios({
+    //         method:"post",
+    //         url:"http://localhost:8080/brand-demo/addServlet",
+    //         data:FromData
+    //     }).then(function (resp){
+    //         location.href="/brand-demo/brand.html"
+    //     });
+    // }
+
+    // new Vue({
+    //     el:"#app",
+    //     mounted(){
+    //
+    //     },
+    //     data(){
+    //         return{
+    //            brand:{}
+    //         }
+    //
+    //
+    //     },
+    //     methods:{
+    //         show(){
+    //             _this=this;
+    //
+    //             axios({
+    //                 method:"post",
+    //                 url:"http://localhost:8080/brand-demo/addServlet",
+    //                 data:_this.brand
+    //             }).then(function (resp){
+    //                 location.href="/brand-demo/brand.html"
+    //             });
+    //         }
+    //     }
+    // })
+    new Vue({
+        el:"#app",
+        data(){
+            return{
+                brand:{}
+            }
+        },
+        methods:{
+            show(){
+                _this=this;
+                axios({
+                    method:"post",
+                    url:"http://localhost:8080/brand-demo/addServlet",
+                    data:_this.brand
+                }).then(function (resp) {
+                    location.href="/brand-demo/brand.html"
+
+                })
+            }
+        }
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+2022-02-25 09:12:32,929 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-25 09:12:32,943 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-25 09:12:34,128 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-25 09:12:39,875 INFO This node is ready to provide external services
+
+2022-02-25 09:14:17,554 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,554 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,562 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,562 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,563 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,563 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,564 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:14:17,564 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={lastRefreshTime=1645751621558, raftMetaData=com.alibaba.nacos.consistency.ProtocolMetaData@3fd6fbab, raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:15:06,972 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-25 09:15:06,973 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:15:06,974 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847, version=1.4.1}}]
+
+2022-02-25 09:15:06,993 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}]
+
+2022-02-25 09:15:06,994 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}]
+
+2022-02-25 09:15:10,685 INFO This node is ready to provide external services
+
+2022-02-25 12:29:12,838 ERROR failed to report new info to target node : 127.0.0.1:8845, error : caused: Connection refused: no further information;
+

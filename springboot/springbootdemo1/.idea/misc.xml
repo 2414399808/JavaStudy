@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springbootdemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo0202/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo0203/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo02_base_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo03_yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo04_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo05_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo5_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo06_mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo07_druid/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemoExample/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo12_hot_deploy/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo13_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo14_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo15_sql/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo16_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootdemo17_mongodb/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

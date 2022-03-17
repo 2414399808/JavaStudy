@@ -1,0 +1,45 @@
+
+#spring:
+#  datasource:
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql://localhost:3306/ssmp?useSSL=false&useServerPrepStmts=true
+#      username: root
+#      password: 1234
+#  jdbc:
+#    template:
+##      查询超时时间
+##      query-timeout:
+##      缓存行数 提高查询性能 举个例子 查询一万条数据 一次只显示一条的话，性能就比较差 ，可以显示多条数据
+##      fetch-size:
+##      最大行数
+#       max-rows:
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb1_
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+#H2数据库
+server:
+  port: 80
+
+
+spring:
+  h2:
+    console:
+      path: /h2
+#      访问用户名sa，默认密码123456
+      enabled: true
+
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:~/test
+    username: sa
+    password: 123456
+
+
+

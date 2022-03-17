@@ -1,0 +1,4 @@
+2022-02-25 09:18:55,754|192.168.147.1|userservice.yaml|DEFAULT_GROUP|null|unknown|1645711309000|pull|ok|40626754|127.0.0.1
+2022-02-25 09:19:35,526|192.168.147.1|orderservice.yaml|DEFAULT_GROUP|null|unknown|1645715938000|pull|ok|36037526|127.0.0.1
+2022-02-25 09:29:15,138|192.168.147.1|userservice.yaml|DEFAULT_GROUP|null|unknown|1645711309000|pull|ok|41246138|127.0.0.1
+2022-02-25 09:29:51,615|192.168.147.1|orderservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1

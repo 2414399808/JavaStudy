@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../springbootdemo0202/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo0202/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo0203/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo02_base_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo02_base_configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo03_yaml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo03_yaml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo03_yaml/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo04_junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo05_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo05_mybatis/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo06_mybatis_plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo06_mybatis_plus/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo07_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo07_druid/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo12_hot_deploy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo13_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo14_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo15_sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo15_sql/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo16_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemo17_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemoExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootdemoExample/src/main/resources/application.yml" charset="UTF-8" />
+  </component>
+</project>

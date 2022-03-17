@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <input v-model="username">
+<!--    插值表达式-->
+    {{username}}
+
+</div>
+<script src="js/vue.js"></script>
+<script>
+    //1创建vue发核心对象
+    new Vue({
+        el:"#app",
+        // data:function (){
+        //     return {
+        //         username:""
+        //     }
+        // }
+        data(){
+            return {
+                        username:""
+                    }
+        }
+    });
+</script>
+</body>
+</html>

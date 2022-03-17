@@ -1,0 +1,9 @@
+com\zsh\service\BrandService.class
+com\zsh\service\BrandServiceImpl.class
+com\zsh\web\UpdateBrandServlet.class
+com\zsh\web\selectAllServlet.class
+com\zsh\web\addBrandServlet.class
+com\zsh\util\SqlSessionFactoryUtils.class
+com\zsh\pojo\Brand.class
+com\zsh\mapper\BrandMapper.class
+com\zsh\web\SelectByIdServlet.class

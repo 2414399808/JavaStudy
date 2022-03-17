@@ -1,0 +1,14 @@
+servers:
+#  ipAddress: 192.168.0.12
+#  ipaddress: 192.168.0.12
+  ip_address: 192.168.0.12
+#  ip-address: 192.168.0.12
+#  IPADDRESS: 192.168.0.12
+#  IP_ADDRESS: 192.168.0.12
+  port: 8888
+  timeout: -1
+  serverTimeOut: 3
+  dataSize: 10
+
+datasource:
+  driver-class-name: com.mysql.jdbc.Driver888

@@ -1,0 +1,40 @@
+2022-02-25 09:12:08,695 INFO Initializes the Raft protocol, raft-config info : {}
+
+2022-02-25 09:12:08,965 INFO ========= The raft protocol is starting... =========
+
+2022-02-25 09:12:09,455 INFO ========= The raft protocol start finished... =========
+
+2022-02-25 09:12:09,462 INFO create raft group : naming_persistent_service
+
+2022-02-25 09:12:09,948 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7846, 192.168.147.1:7845, 192.168.147.1:7847]}
+
+2022-02-25 09:12:16,437 ERROR Fail to refresh leader for group : naming_persistent_service, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception, Unknown leader, io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2022-02-25 09:12:18,802 ERROR Fail to refresh route configuration for group : naming_persistent_service, status is : Status[UNKNOWN<-1>: Fail to get leader of group naming_persistent_service]
+
+2022-02-25 09:12:25,888 ERROR Fail to refresh leader for group : naming_persistent_service, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception, Unknown leader, io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2022-02-25 09:12:25,898 ERROR Fail to refresh route configuration for group : naming_persistent_service, status is : Status[UNKNOWN<-1>: Fail to get leader of group naming_persistent_service]
+
+2022-02-25 09:12:29,555 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.147.1:7845', term=4, raftClusterInfo=[192.168.147.1:7846, 192.168.147.1:7845, 192.168.147.1:7847]}
+
+2022-02-25 09:13:41,526 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7845, 192.168.147.1:7847]}
+
+2022-02-25 09:13:41,556 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7845]}
+
+2022-02-25 09:14:36,305 INFO Initializes the Raft protocol, raft-config info : {}
+
+2022-02-25 09:14:36,572 INFO ========= The raft protocol is starting... =========
+
+2022-02-25 09:14:37,035 INFO ========= The raft protocol start finished... =========
+
+2022-02-25 09:14:37,039 INFO create raft group : naming_persistent_service
+
+2022-02-25 09:14:37,354 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7846, 192.168.147.1:7845, 192.168.147.1:7847]}
+
+2022-02-25 09:14:37,409 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7845, 192.168.147.1:7847]}
+
+2022-02-25 09:14:37,409 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='null', term=null, raftClusterInfo=[192.168.147.1:7845]}
+
+2022-02-25 09:14:37,409 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='192.168.147.1:7845', term=5, raftClusterInfo=[192.168.147.1:7845]}
+

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="anno01_configuration:war">
+    <output-path>$PROJECT_DIR$/../anno01_configuration/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>anno01_configuration</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="anno01_configuration-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="anno01_configuration:war exploded" />
+    </root>
+  </artifact>
+</component>

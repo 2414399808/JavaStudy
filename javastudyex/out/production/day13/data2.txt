@@ -1,0 +1,6 @@
+============Student=============
+name=zsh
+sex=男
+age=20
+className=软件四班
+hobby=打代码

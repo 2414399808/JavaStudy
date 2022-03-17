@@ -1,0 +1,112 @@
+2022-02-24 17:49:00,420 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 17:49:00,421 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 17:49:00,422 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 17:49:00,455 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 17:49:00,458 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 17:51:43,097 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 17:51:43,104 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 17:51:43,116 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 17:51:43,117 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 17:51:45,915 INFO This node is ready to provide external services
+
+2022-02-24 17:51:52,938 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:17:59,043 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:17:59,047 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:17:59,060 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:17:59,062 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:18:03,346 INFO This node is ready to provide external services
+
+2022-02-24 21:18:10,354 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:16,356 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:22,361 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:28,366 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:18:34,394 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:34,038 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:32:34,040 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 21:32:34,040 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 21:32:34,057 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:32:34,058 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:32:36,938 INFO This node is ready to provide external services
+
+2022-02-24 21:32:43,948 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:49,955 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:32:55,961 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:33:01,966 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:42:26,414 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:44,983 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:45:44,986 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:44,999 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:45,000 WARN [serverlist] updated to : [Member{ip='192.168.147.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='192.168.147.1', port=8845, state=UP, extendInfo={raftPort=7845}}]
+
+2022-02-24 21:45:48,006 INFO This node is ready to provide external services
+
+2022-02-24 21:45:55,030 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:45:59,052 ERROR failed to report new info to target node : 192.168.147.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:53:50,470 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 21:53:50,472 WARN [serverlist] self ip Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}} not in serverlist [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 21:53:50,472 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846, version=1.4.1}}]
+
+2022-02-24 21:53:50,490 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:53:50,491 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 21:53:53,321 INFO This node is ready to provide external services
+
+2022-02-24 21:54:00,340 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:54:06,345 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 21:54:12,353 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 22:53:17,450 ERROR failed to report new info to target node : 127.0.0.1:8845, error : caused: Connection refused: no further information;
+
+2022-02-24 23:03:08,703 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2022-02-24 23:03:08,708 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 23:03:08,720 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 23:03:08,722 WARN [serverlist] updated to : [Member{ip='127.0.0.1', port=8847, state=UP, extendInfo={raftPort=7847}}, Member{ip='127.0.0.1', port=8846, state=UP, extendInfo={raftPort=7846}}, Member{ip='127.0.0.1', port=8845, state=UP, extendInfo={raftPort=7845}}, Member{ip='192.168.147.1', port=8846, state=UP, extendInfo={raftPort=7846}}]
+
+2022-02-24 23:03:19,451 INFO This node is ready to provide external services
+
+2022-02-24 23:03:26,507 ERROR failed to report new info to target node : 127.0.0.1:8847, error : caused: Connection refused: no further information;
+
+2022-02-24 23:24:35,545 ERROR failed to report new info to target node : 127.0.0.1:8845, error : caused: Connection refused: no further information;
+

@@ -1,0 +1,23 @@
+server:
+  port: 80
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/ssmp?useSSL=false&useServerPrepStmts=true
+      username: root
+      password: 1234
+  devtools:
+    restart:
+      exclude: static/**,public/**,config/application.yml
+#      关闭热部署
+#      enabled: false
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb1_
+#      配置id为自增模式
+      id-type: auto
+
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
