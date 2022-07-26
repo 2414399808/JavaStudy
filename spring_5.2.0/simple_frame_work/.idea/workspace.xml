@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1c4cc5d-4219-47ca-ab55-2e63af5841a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../leetcode/src/HammingWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leetcode/src/MinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exm" beforeDir="false" afterPath="$PROJECT_DIR$/../../exm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javastudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javastudy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/CQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/CQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/FindRepeatNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/FindRepeatNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/ReplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/ReplaceSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/ReverseLeftWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/ReverseLeftWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../leetcode/out/production/leetcode/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/generic/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/generic/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/springbootdemo0203/target/classes/com/zsh/application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/springbootdemo0203/target/classes/com/zsh/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/springbootdemo03_yaml/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../springboot/springbootdemo03_yaml/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springboot/springbootdemo03_yaml/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../springboot/springbootdemo03_yaml/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../xm1" beforeDir="false" afterPath="$PROJECT_DIR$/../../xm1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CTrVOhK7kVf2W4CTc99KtzWug5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ssmtest4" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c4cc5d-4219-47ca-ab55-2e63af5841a1" name="Changes" comment="" />
+      <created>1658837441786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658837441786</updated>
+      <workItem from="1658837443320" duration="6654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
