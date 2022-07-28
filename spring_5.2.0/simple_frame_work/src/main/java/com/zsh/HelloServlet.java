@@ -16,6 +16,17 @@ import java.io.IOException;
 public class HelloServlet extends HttpServlet {
 
     @Override
+    public void init() throws ServletException {
+        System.out.println("初始化Servlet容器...");
+    }
+
+    @Override
+    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        System.out.println("我执行了doget方法");
+        doGet(req,resp);
+    }
+
+    @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String name="我的简易框架";
         log.debug("name is"+name);
@@ -29,4 +40,9 @@ public class HelloServlet extends HttpServlet {
 //        System.out.println("post");
 //        super.doPost(req, resp);
 //    }
+
+    @Override
+    public void destroy() {
+        System.out.println("destory");
+    }
 }
